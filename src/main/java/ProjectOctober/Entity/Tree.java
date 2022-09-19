@@ -1,4 +1,4 @@
-package ProjectOctober;
+package ProjectOctober.Entity;
 
 import javax.persistence.*;
 
